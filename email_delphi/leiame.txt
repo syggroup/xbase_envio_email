@@ -1,0 +1,2 @@
+Para compilar a SYGMAIL.DLL, precisa instalar o seguinte pacote do projeto ACBR
+D:\devel\projetos_svn\acbr2\trunk2\Pacotes\Lazarus\synapse\laz_synapse.lpk

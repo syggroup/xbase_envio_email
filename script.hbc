@@ -1,0 +1,4 @@
+{win}libs=hwgui procmisc hbct hbwin xhb hbblat blat
+{win}gt=gtgui
+libpaths=d:\devel\hb-bcc\contrib\hwgui\lib
+incpaths=d:\devel\hb-bcc\contrib\hwgui\include
